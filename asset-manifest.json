@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.bb93b40f.css",
+    "main.js": "/static/js/main.cfcbbcaa.js",
+    "static/media/7OQF.gif": "/static/media/7OQF.616e25fc162f8a57150f.gif",
+    "static/media/twitter_32x32.png": "/static/media/twitter_32x32.677cdc524453ba31af0c.png",
+    "index.html": "/index.html",
+    "main.bb93b40f.css.map": "/static/css/main.bb93b40f.css.map",
+    "main.cfcbbcaa.js.map": "/static/js/main.cfcbbcaa.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bb93b40f.css",
+    "static/js/main.cfcbbcaa.js"
+  ]
+}
